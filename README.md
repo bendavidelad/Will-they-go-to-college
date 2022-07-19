@@ -28,17 +28,18 @@ high school graduates and their chances going to college.
 
 data.csv - 
 The data regarding students which contains 1000 rows and the following columns:
-    type_school  - Type of school that student attends
-    school_accreditation - Quality of school. A is better than B.
-    gender - Gender of student
-    interest - How interested are students if they go to college
-    residence  - Type of residence
-    parent_age  - Parent age
-    parent_salary - Parent salary per month in IDR/Rupiah
-    house_area - Parent house area in meter square
-    average_grades  - Average of grades in scale of 0-100
-    parent_was_in_college  - Was parent ever in college?
-    will_go_to_college  - Will the student go to college
+
+* type_school  - Type of school that student attends
+* school_accreditation - Quality of school. A is better than B.
+* gender - Gender of student
+* interest - How interested are students if they go to college
+* residence  - Type of residence
+* parent_age  - Parent age
+* parent_salary - Parent salary per month in IDR/Rupiah
+* house_area - Parent house area in meter square
+* average_grades  - Average of grades in scale of 0-100
+* parent_was_in_college  - Was parent ever in college?
+* will_go_to_college  - Will the student go to college
 
 Will they go to college.ipynb - The notebook that describes the showcase work related 
 to the questions above
